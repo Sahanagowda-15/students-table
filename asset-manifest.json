@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/students-table/static/css/main.4f6aa998.css",
+    "main.js": "/students-table/static/js/main.3fb962a9.js",
+    "static/js/453.419691a4.chunk.js": "/students-table/static/js/453.419691a4.chunk.js",
+    "index.html": "/students-table/index.html",
+    "main.4f6aa998.css.map": "/students-table/static/css/main.4f6aa998.css.map",
+    "main.3fb962a9.js.map": "/students-table/static/js/main.3fb962a9.js.map",
+    "453.419691a4.chunk.js.map": "/students-table/static/js/453.419691a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f6aa998.css",
+    "static/js/main.3fb962a9.js"
+  ]
+}
